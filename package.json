@@ -1,5 +1,5 @@
 {
-  "name": "bootcamp-interest-project",
+  "name": "desafio-modulo-3",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -31,18 +31,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "Final project on module 3 to create a compound interest app",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kevynfg/bootcamp-interest-project.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kevynfg/bootcamp-interest-project/issues"
-  },
-  "homepage": "https://github.com/kevynfg/bootcamp-interest-project#readme"
+  }
 }

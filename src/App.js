@@ -56,7 +56,7 @@ export default function App() {
   };
   return (
     <div className="container">
-      <h1 className="center-align">Desafio 3 Módulo 3</h1>
+      <h1 className="center-align">Juros Composto</h1>
       <div className="center row">
         <Inputs
           id="1"
